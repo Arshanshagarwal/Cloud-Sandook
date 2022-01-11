@@ -1,5 +1,11 @@
-# Cloud-Sandook
+# Cloud-Sandook :
 SANDOOK is a self hosted encrypted and anonymous cloud storage service.
+
+
+# Stack Used :
+- React.js - Front-end Library
+- MongoDB - Database System 
+- ExpressJS/ NodeJS - Backend Library
 
 ![alt text](https://github.com/GaurangShukla/Cloud-Sandook/blob/main/Screenshot%20(129).png?raw=true)
 
